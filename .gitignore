@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Optional: Ignore coverage and test results
+coverage/
+*.lcov
+
+# Mac junk
+__MACOSX/
+
+# Optional: local database or uploads
+uploads/
